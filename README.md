@@ -12,9 +12,12 @@ Explore this fully functional Razorpay clone, meticulously crafted using Tailwin
   
 - **Tailwind CSS Styling:** The UI is designed and styled using Tailwind CSS, providing a clean, responsive, and visually appealing layout.
 
-## Responsive Design
-
 - **Adaptive Layout:** Enjoy a responsive design that seamlessly adapts to various screen sizes and devices, ensuring a consistent and user-friendly experience.
+
+## Website Live On
+
+- Link:-  https://razorpayclonebyadityadwivedi.netlify.app/
+
 
 ## How to Use
 
