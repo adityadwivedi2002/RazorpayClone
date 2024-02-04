@@ -1,6 +1,6 @@
 # Razorpay Clone
 
-Explore this fully functional Razorpay clone, meticulously crafted using Tailwind CSS. Experience the seamless payment interface and design that mirrors the original Razorpay platform.
+A Fully completed frontend Website of Razorpay its a Clone of it and a full responsive
 
 ## Technologies Used
 
